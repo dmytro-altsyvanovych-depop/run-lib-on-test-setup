@@ -1,0 +1,4 @@
+[repositories]
+local
+my-ivy-proxy-releases: https://depop.jfrog.io/depop/depop-clean-scala-ivy/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]
+my-maven-proxy-releases: https://depop.jfrog.io/depop/depop-clean-scala-maven/
